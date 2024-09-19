@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on machine learning projects...
 - 📫 How to reach me ->Linkdin Profile->ashish-dixit-779b08297
 - 😄 Pronouns: AUSHISH
-- ⚡ Fun fact: https://leetcode.com/u/Ashish15_
+- ⚡ Fun fact: https://leetcode.com/u/Ashish15_2003
