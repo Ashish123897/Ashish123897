@@ -20,4 +20,19 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashish123897&show_icons=true&theme=radical)
 
-![Your Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Ashish123897&theme=react-dark)
+## 📚 Learning Goals
+- Currently learning: [JavaScript]
+- Next on my list: [React]
+
+## 📖 Favorite Resources
+- [Harry Potter ](link) - Very Good book to read.
+- [Angela YU](udemy.com) - to learn front end backend 
+
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-Expert-green)
+![Python Badge](https://img.shields.io/badge/Python-Intermediate-blue)
+
+![My Projects](https://media.giphy.com/media/26AFOcM8z0AiL8X1m/giphy.gif)
+
+<i class="devicon-python-plain"></i>
+<i class="devicon-javascript-plain"></i>
+
