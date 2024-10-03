@@ -6,7 +6,6 @@
 - 😄 Pronouns: ASHISH
 - ⚡ Fun fact: https://leetcode.com/u/Ashish15_2003
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Ashish123897.Ashish123897)
 
 ## 🔥 GitHub Streak Stats
 
