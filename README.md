@@ -14,7 +14,7 @@
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish123897&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish123897&layout=compact&langs_count=6&theme=radical)
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/ashish-dixit-779b08297/)
 - [Leetcode](https://leetcode.com/u/Ashish15_2003/)
