@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashish123897
 - 👀 I’m interested in Coding and web developing ...
-- 🌱 I’m currently learning AIML...
+- 🌱 I’m currently learning AIML..
 - 💞️ I’m looking to collaborate on machine learning and Web Developing projects.
 - 📫 How to reach me ->Linkdin Profile->ashish-dixit-779b08297
 - 😄 Pronouns: ASHISH
