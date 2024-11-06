@@ -8,7 +8,7 @@
 
 # My GitHub Stats
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=green&label=Profile%20Views&query=$.views&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAshish123897%2Frepository%2Ftraffic%2Fviews)
+color=green&label=Profile%20Views&query=$.views&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAshish123897%2Frepository%2Ftraffic%2Fviews)
 
 
 ## 🔥 GitHub Streak Stats
