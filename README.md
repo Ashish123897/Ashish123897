@@ -6,11 +6,7 @@
 - 😄 Pronouns: ASHISH
 - ⚡ Fun fact: https://leetcode.com/u/Ashish15_2003
 
-# My GitHub Stats
-
-color=green&label=Profile%20Views&query=$.views&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAshish123897%2Frepository%2Ftraffic%2Fviews)
-
-
+  
 ## 🔥 GitHub Streak Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashish123897&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ashish123897&theme=radical)](https://git.io/streak-stats)
